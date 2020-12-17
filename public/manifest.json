@@ -12,7 +12,7 @@
       }
     ],
     "name": "Budget Tracker",
-    "short_name": "Budgey",
+    "short_name": "Budget",
     "orientation": "portrait",
     "display": "standalone",
     "start_url": "/",
